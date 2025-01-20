@@ -4,7 +4,8 @@ SpeakMate is an AI-powered chatbot designed to help users improve their English 
 
 ## ScreenShot
 
-![WhatsApp Image 2025-01-20 at 7 01 59 PM](https://github.com/user-attachments/assets/0d13ba58-2fc1-4358-918a-0cc3731672f4)
+![Screenshot 2025-01-20 190429](https://github.com/user-attachments/assets/9e78bb70-4647-447e-a1ef-69a535eb83da)
+
 
 
 ## Features 🔧
